@@ -50,13 +50,7 @@ public interface 인터페이스명<T>{
 - 여러 개의 타입 변수는 쉽표(,)로 구분하여 명시할 수있음
 - 타입 파라미터는 정해진 규칙은 없지만 일반적으로 알파뱃 대문자 한 글자로 표현됨
 
-| 타입 변수 | 의미 |
-| --- | --- |
-| <T> | Type |
-| <E> | Element |
-| <K> | Key |
-| <N> | Number |
-| <V> | Value |
+![image](https://github.com/user-attachments/assets/be013c41-ea52-4528-a719-8a3c708ff393)
 
 ## List 주요 메서드
 
